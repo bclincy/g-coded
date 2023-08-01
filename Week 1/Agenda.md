@@ -84,3 +84,9 @@ Bounce Video to checkout:
 (Git Branching)[https://www.youtube.com/watch?v=JTE2Fn_sCZs]
 
 Thanks and I will see you Wednesday.
+
+Attendance:
+Jon
+Justin
+Demarcus
+Danny
