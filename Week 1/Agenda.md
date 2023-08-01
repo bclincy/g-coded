@@ -78,6 +78,8 @@ Q: Which programmer makes the most money PHP, Agular, Flutter, React, or Flutter
 
 Q: What's the difference between a IDE and Text editor?
 
+Q: What's a container?
+
 Bounce Video to checkout:
 (Git Branching)[https://www.youtube.com/watch?v=JTE2Fn_sCZs]
 
