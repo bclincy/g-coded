@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+}
+
+section a {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
