@@ -5,8 +5,16 @@ header {
     gap: 40px;
 }
 
+header .image {
+    border-radius: 50px;
+}
+
 section a {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+section div .def {
+    color: blue;
 }
