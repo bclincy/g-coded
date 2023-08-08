@@ -1,0 +1,45 @@
+body {
+    background-color: blanchedalmond;
+    margin: 10px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+}
+
+/* This only changes this particular animation duration */
+header .animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
+  
+  /* This changes all the animations globally */
+  :root {
+    --animate-duration: 800ms;
+    --animate-delay: 1.3s;
+  }
+
+header .image {
+    border-radius: 100px;
+}
+
+header .image img {
+    border-radius: 100px;
+
+}
+
+section a {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+section div .def {
+    color: blue;
+}
+
+blockquote div .title {
+    font-size: x-large;
+}
