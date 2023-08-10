@@ -22,3 +22,7 @@ section div .def {
 .img-gcoded{
     width: 200px;
 }
+
+section div .adef {
+    color: rgb(247, 0, 255);
+}
