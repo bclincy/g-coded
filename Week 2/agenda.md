@@ -2,7 +2,7 @@
 
 ### Jam Packed make sure your get here on time.
 
-Monday Session
+## Monday Session
 
 1. (10 min) Stand up
 
@@ -18,6 +18,17 @@ Monday Session
 6. 10 Minute Help Session
 
 [Teams Invite](https://teams.live.com/l/invite/FAAFQ7R1yLWyqKauAI)
+
+## Wedneday Session
+
+1. Standup
+2. Question and Answers
+3. Work Session
+   - Variables and Variable types: strings, intergers, functions, objects
+   - Operators
+   - loops
+   - Conditionals
+4. Homework Q&A
 
 ## Homework
 
