@@ -1,6 +1,6 @@
 # Answers to Week 2 terms:
 1. Scrum Master:
-    Scrum Masters are tasked with implementing scrum methodology
+    - Scrum Masters are tasked with implementing scrum methodology
     within their team. They are also responsible for being a 
     resource for their team as well as mentoring memebers when 
     needed. Overall, scrum masters are judged by the effectiveness 
