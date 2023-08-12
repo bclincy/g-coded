@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>intro to programing</title>
+  </head>
+  <body>
+    <script>
+      var global = "Hello World";
+      let name = "Smith";
+      const help = "Always asking for help";
+      let oldusers = ["Jacory", "Dannie", "Sydney", "Jon", "Dan"];
+      let users = [
+        { fname: "Brian", lname: "Clincy", username: "bclincy" },
+        { fname: "Jacory", lname: "Armstrong", username: "Armstrong" },
+        { fname: "Dannie", lname: "Anderson", username: "Anderson" },
+        { fname: "Sydney", lname: "Simmons", username: "Simmons" },
+        { fname: "Jon", lname: "Hill", username: "Hill" },
+        { fname: "Dan", lname: "Osherow", username: "Osherow" },
+        { fname: "Dez", lname: "Clincy", username: "dclincy" },
+      ];
+      let p = (x) => x + "  get working people";
+      function helloBrian() {
+        console.log("Hello " + fname);
+      }
+      function helloYall(x) {
+        console.log("Hello " + x.fname);
+      }
+      function helloworld(x) {
+        console.log("Hello " + x);
+      }
+
+      helloBrian();
+      helloworld(name);
+
+      p("cool");
+    </script>
+  </body>
+</html>
