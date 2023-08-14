@@ -1,4 +1,5 @@
-Homework:
+# Homework:
+
 Let me elaborate on your homework:
 Your homework before this class was to do the prerequisites.
 Watch the videos write down at least two questions per video. The videos are in previous programming 101.
@@ -24,3 +25,15 @@ Know a cool fact about each of them.
 Next Session is schedule for next Monday 7/24. I am a Mr. Miyagi type of teacher, where I may not tell you everything you are learning while doing house work, but the lessons are there.
 
 Use your resources. Ask questions. We're all in this together.
+
+Prerequiest
+[Github](https://www.youtube.com/watch?v=0fKg7e37bQE)
+
+[HTML](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
+[CSS](https://www.youtube.com/watch?v=1PnVor36_40)
+
+CSS Cheat sheet
+Javascript https://www.youtube.com/watch?v=Ukg_U3CnJWI
+
+Internet security Pentesting https://www.youtube.com/watch?v=B7tTQ272OHE
