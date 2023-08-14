@@ -1,3 +1,14 @@
+### Job Description 1
+- If I had the requisite experience to satisfy this positions qualifications
+I would apply. This role is for a full-stack developer, which would require
+lots of coding and problems solving which I enjoy. The job being remote would 
+be an additional plus.
+### Job Description 2
+- Likewise I would also apply for this job if my experience was satisfactory.
+This position is for a project manager.I think I could enjoy and thrive in a 
+role like this, however, I would prefer the first job if given the choice. 
+While I beleive I have very good communication skills, I prefer to develop 
+software as opposed to managing a project.    
 # Answers to Week 2 terms:
 1. Scrum Master:
     - Scrum Masters are tasked with implementing scrum methodology
