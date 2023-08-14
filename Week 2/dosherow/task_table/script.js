@@ -1,6 +1,6 @@
-var add = document.getElementById('addTask');
-var input = document.getElementById('inputField');
-var taskContainer = document.getElementById('taskContainer');
+let add = document.getElementById('addTask');
+let input = document.getElementById('inputField');
+let taskContainer = document.getElementById('taskContainer');
 
 add.addEventListener('click',addItem);
 input.addEventListener('keypress',function(e){
