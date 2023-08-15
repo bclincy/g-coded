@@ -9,7 +9,7 @@ body{
     background-image: url("https://wallpapercave.com/wp/O1J2pMf.jpg");
     background-repeat: no-repeat;
     background-size:cover;
-    overflow: hidden;
+    overflow: scroll;
 }
 #main-header{
     border-radius: 5px;
