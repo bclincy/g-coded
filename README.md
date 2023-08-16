@@ -2,6 +2,10 @@
 
 G-Coded is Cooperative company that is bring people from "The Culture" to Technology to not only cash in on digital gold rush, but do it while building a family and real IT projects.
 
+## Course Background:
+
+[slide](https://docs.google.com/presentation/d/1jMmfWO_z_R45dW6iPtzvwGhObKorxtj3RknEoyh5YiM/edit?usp=sharing)
+
 Pre-course
 
 Before starting G-Coded there are a few things you need to get started.
@@ -12,3 +16,5 @@ Before starting G-Coded there are a few things you need to get started.
 - Programmer's number 1 rule: Don't repeat yourself.
 
 [Week 1 Session Agenda](week%201/Agenda.md)
+[Week 2 Session Agenda](week%202/Agenda.md)
+[Week 3 Session Agenda](week%203/Agenda.md)
