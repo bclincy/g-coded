@@ -23,7 +23,11 @@ DotFiles Automation (MACOS)
 [DoteFiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ) Fireship
 [Clincy Dotfile Repo](https://github.com/bclincy/dotfiles)
 
-## SalesForce
+## Online Resources Computer based training
+
+(Pentesting Cyber Security)[https://info.cybrary.it/e/785393/-email01-20230827-eml-20230827/4t57qg/1187441254?h=N9vqx-iUqEcK1lA1FWUVvXwb2pJPpDOVAlG8euZkPC4]
+
+(Salesforce Trailhead)[https://trailhead.salesforce.com/]
 
 Videos
 
@@ -32,3 +36,8 @@ Videos
 - [Intro to JavaScript](https://www.youtube.com/watch?v=ekYNA10oe2I) Treehouse
 - [Intro to API Application Programming Interface](https://www.youtube.com/watch?v=WXsD0ZgxjRw) FreeCodeCamp
 - [Bash](https://youtu.be/oxuRxtrO2Ag?si=10EA8K_Y7FUiLdp7)
+
+## Community
+
+(Orlando Devs)[https://orlandodevs.com/]
+(GRWebDevs)[https://www.meetup.com/grwebdevß]

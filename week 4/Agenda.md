@@ -12,3 +12,5 @@ Halfway through we're going to take a midterm don't worry about pass or fail jus
 know that we got each other's back. We're going to do some industry accessment testing
 
 [HTML](https://www.w3schools.com/html/html_quiz.asp)
+
+[CSS](https://www.w3schools.com/css/css_quiz.asp)
