@@ -43,7 +43,7 @@
 > 2. MEAN Stack
 > 3. Containerize
 > 4. SDLC
-> 5. PMP Certification
+> 5. PMP Certification   
 > 6. Nginx
 > 7. Dev Manager
 > 8. CTO
