@@ -39,5 +39,12 @@ Videos
 
 ## Community
 
-(Orlando Devs)[https://orlandodevs.com/]
-(GRWebDevs)[https://www.meetup.com/grwebdevß]
+[Orlando Devs](https://orlandodevs.com/)
+
+[GRWebDevs](https://www.meetup.com/grwebdevß)
+
+## Programming Resources
+
+[Mock API JSON](https://gorest.co.in/public/v1/users)
+
+[Mock API JSON](https://dummyjson.com/products)
