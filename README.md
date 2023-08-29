@@ -16,6 +16,9 @@ Before starting G-Coded there are a few things you need to get started.
 - Programmer's number 1 rule: Don't repeat yourself.
 
 [Week 1 Session Agenda](week%201/Agenda.md)
+
 [Week 2 Session Agenda](week%202/Agenda.md)
+
 [Week 3 Session Agenda](week%203/Agenda.md)
+
 [Week 4 Session Agenda](week%204/Agenda.md)
