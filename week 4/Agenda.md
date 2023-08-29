@@ -1,16 +1,9 @@
-# Workflow
+# Week 5 workflow
 
-## Azure Dev Ops (ADO) Workflow
+## Planning G-coded App
 
-Signup for the project here: https://bclincy.visualstudio.com/
+## learning javaScript
 
-Follow Azure on [Twitter])https://twitter.com/AzureDevOps)
+Learning read this: [javscript](https://github.com/bclincy/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 
-## Accessment Testing
-
-Halfway through we're going to take a midterm don't worry about pass or fail just
-know that we got each other's back. We're going to do some industry accessment testing
-
-[HTML](https://www.w3schools.com/html/html_quiz.asp)
-
-[CSS](https://www.w3schools.com/css/css_quiz.asp)
+[Javascript Assesssment](https://www.w3schools.com/js/js_quiz.asp)
