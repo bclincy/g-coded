@@ -48,3 +48,11 @@ Videos
 [Mock API JSON](https://gorest.co.in/public/v1/users)
 
 [Mock API JSON](https://dummyjson.com/products)
+
+## Planning
+
+[Fibonacci Sequences](https://www.mathsisfun.com/numbers/fibonacci-sequence.html) Planning Story Points
+
+[Agile Manifesto](https://www.atlassian.com/agile/manifesto)
+
+[Agile Scrum](https://www.atlassian.com/agile/scrum)
