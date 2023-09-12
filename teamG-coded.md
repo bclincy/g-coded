@@ -6,9 +6,9 @@ Originals:
 - Jacory Armstrong-Jamerson | [linkedin](https://www.linkedin.com/in/jacory-armstrong-jamerson-5ab073247/)
 - Sydney Simmons
 - Destiana Clincy
-- Jon Hill
+- Jon Hill 
 - DeMarcus McMillian
-- Daniel Osherow
+- Daniel Osherow | [linked In](https://www.linkedin.com/in/daniel-osherow-309bb21a9/) | [twitter](https://twitter.com/daniel_osherow)
 - Danielle Anderson
 
 Special Guest:
