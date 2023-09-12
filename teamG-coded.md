@@ -10,6 +10,9 @@ Originals:
 - DeMarcus McMillian
 - Daniel Osherow
 - Danielle Anderson
+- Tashiana Sanders | [linkedin](https://www.linkedin.com/in/tashiana-sanders)
+
+
 
 Special Guest:
 
