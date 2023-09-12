@@ -8,7 +8,7 @@ Originals:
 - Destiana Clincy
 - Jon Hill 
 - DeMarcus McMillian
-- Daniel Osherow | [linked In](https://www.linkedin.com/in/daniel-osherow-309bb21a9/) | [twitter](https://twitter.com/daniel_osherow)
+- Daniel Osherow | [linked In](https://www.linkedin.com/in/daniel-osherow/) | [twitter](https://twitter.com/daniel_osherow)
 - Danielle Anderson
 
 Special Guest:
