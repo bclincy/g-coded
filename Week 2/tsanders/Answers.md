@@ -17,5 +17,3 @@ CTO - Acronym for Chief Technical Officer. This is an executive level role respo
 MVP - Acronym for Minimal Viable Product. This is most basic usable version of a product that gives customers a chance to interact and proved feedback for future iterations.
 
 Agile Vs Waterfall - These are the two most common SDLC methods. Agile provides the most flexibility and allows developers to complete parts of the product in parallel and in repetitive iterations to completion. Waterfall is rigid and requires development to be serial in nature performing each step one at a time and in a specific order.
-
-adding something to the bottom
