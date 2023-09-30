@@ -36,4 +36,6 @@ Prerequiest
 CSS Cheat sheet
 Javascript https://www.youtube.com/watch?v=Ukg_U3CnJWI
 
-Internet security Pentesting https://www.youtube.com/watch?v=B7tTQ272OHE
+[Internet security Pentesting](https://www.youtube.com/watch?v=B7tTQ272OHE)
+
+Take the [HTML accessement test](https://www.w3schools.com/html/html_quiz.asp)

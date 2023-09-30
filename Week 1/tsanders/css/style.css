@@ -1,0 +1,57 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --clr-primary-200: #f3eed9;
+    --clr-primary-400: red;
+    
+    --clr-neutral-100: #fff;
+    --clr-neutral-900: #222c2a;
+    
+    --ff-primary: "Roboto", sans-serif;
+    --ff-accent: "Playfair Display", serif;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 40px;
+    padding: 4em 2em;
+    background-color: var(--clr-primary-200);
+}
+
+header img {
+    border-radius: 10px;
+}
+
+section a {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+section div {
+    line-height: 1.25rem;
+    padding: 2em 0;
+}
+
+section div .def {
+    color: blue;
+}
+
+section .social {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 2em 0;
+    background-color: var(--clr-primary-400);
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
