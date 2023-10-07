@@ -36,7 +36,8 @@
 2. [Complete the quiz](https://forms.gle/BYG5Z9cZhetSCgDeA)
 3. Create a folder in week 2 using your first initial and last name.
 4. Create a [Bootstrap Form](https://www.youtube.com/watch?v=oagX1tTUFwk) that add task to a table using JavaScript.
-5. In the two job descriptions below tell let me know if you would apply for the job, and explain your decision in detail. Your explaination should read or confident or you can shoot a short video response. Answer the question in your folder using a markdown answer file in your user directory.
+5. Read the two job descriptions below, and write if you would apply for the jobs, and why or why not would you apply. When do you feel like
+   you would be confident to apply for one of the jobs.
 6. In the answers.md file that you created in your week 2 directory add define the following terms. Remember these are your own words. (FYI this is a blockquote)
 
 > 1. Scrum Master
